@@ -1,0 +1,28 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "test-publication",
+    "description": "",
+    "home_page_url": "https://github.com/set-webmaster/publii-test.git",
+    "feed_url": "https://github.com/set-webmaster/publii-test.git/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "test"
+    },
+    "items": [
+        {
+            "id": "https://github.com/set-webmaster/publii-test.git/first-post.html",
+            "url": "https://github.com/set-webmaster/publii-test.git/first-post.html",
+            "title": "first post",
+            "summary": "this is the very first post",
+            "content_html": "this is the very first post",
+            "image": "https://github.com/set-webmaster/publii-test.git/media/posts/1/",
+            "author": {
+                "name": "test"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-02-07T13:44:40-05:00",
+            "date_modified": "2019-02-07T13:44:40-05:00"
+        }
+    ]
+}

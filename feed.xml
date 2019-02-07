@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>test-publication</title>
+    <link href="https://github.com/set-webmaster/publii-test.git/feed.xml" rel="self" />
+    <link href="https://github.com/set-webmaster/publii-test.git" />
+    <updated>2019-02-07T13:52:47-05:00</updated>
+    <author>
+        <name>test</name>
+    </author>
+    <id>https://github.com/set-webmaster/publii-test.git</id>
+
+    <entry>
+        <title>first post</title>
+        <author>
+            <name>test</name>
+        </author>
+        <link href="https://github.com/set-webmaster/publii-test.git/first-post.html"/>
+        <id>https://github.com/set-webmaster/publii-test.git/first-post.html</id>
+
+        <updated>2019-02-07T13:44:40-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://github.com/set-webmaster/publii-test.git/media/posts/1/" alt="" />
+                    this is the very first post
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://github.com/set-webmaster/publii-test.git/media/posts/1/" alt="" />
+                this is the very first post
+            ]]>
+        </content>
+    </entry>
+</feed>
